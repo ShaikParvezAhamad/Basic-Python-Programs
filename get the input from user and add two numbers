@@ -1,0 +1,5 @@
+#get the input from user and add two numbers
+num1=int(input("Enter the First Number:"))
+num2=int(input("Enter the Second Number:"))
+Sum=num1+num2
+print("Sum of two Number:",Sum)
