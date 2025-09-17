@@ -1,0 +1,7 @@
+# Write a program to print the primitive datatypes
+a=10
+b=2.13
+c=True
+print("Integer is:",a)
+print("Float is:",b)
+print("Boolean is:",c)
