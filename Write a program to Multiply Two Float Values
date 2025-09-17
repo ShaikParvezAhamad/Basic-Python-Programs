@@ -1,0 +1,5 @@
+#Write a program to Multiply Two Float Values
+num1=float(input(" "))
+num2=float(input(" "))
+mul=num1*num2
+print("Result:",mul)
