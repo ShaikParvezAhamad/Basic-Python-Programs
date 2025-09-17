@@ -1,0 +1,4 @@
+#Sum of first n natural numbers
+n=int(input("Enter the Number:"))
+even=n*(n+1)
+print(even)
