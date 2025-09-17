@@ -1,0 +1,4 @@
+#Write a python program to take a number as an user input and multiply by 10
+num=int(input("Enter thr Number:"))
+mul=num*10
+print(mul)
