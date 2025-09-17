@@ -1,0 +1,9 @@
+#Write a program to check whether the student is pass or not
+Th=int(input("Enter the Theory Marks:"))
+Pr=int(input("Enter the Practical Marks:"))
+Ts=int(input("Enter the Total Marks:"))
+if(Th>=35 and Pr>=15 and Ts>60):
+       print("Pass")
+else:
+       print("Fail")
+       
