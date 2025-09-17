@@ -1,0 +1,9 @@
+#Write a program to find non primitive datatype
+L1=[1,2,3,4,5]
+D1={1,2,3,4,5}
+S1=(10,20,30)
+dict_1={"one":1,"two":2}
+print(L1)
+print(D1)
+print(S1)
+print(dict_1)
