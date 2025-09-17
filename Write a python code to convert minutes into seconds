@@ -1,0 +1,4 @@
+#Write a python code to convert minutes into seconds
+min=int(input("Enter the Minutes:"))
+sec=min*60
+print(sec)
